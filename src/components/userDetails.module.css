@@ -1,0 +1,30 @@
+
+  .mainDiv{
+    width: 80%;
+      border: 1px solid red;
+      display: flex;
+      justify-content: space-evenly;
+      height: 150px;
+  }
+  .imgSize{
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+  }
+  button{
+    width: 100px;
+    height: 30px;
+  
+  }
+  .hoverkar{
+    background-color: aqua;
+  }
+  .mainDiv:hover {
+    background-color: red;
+  }
+  button:hover{
+    background-color: olive;
+    color: white;
+  }
+
+  
