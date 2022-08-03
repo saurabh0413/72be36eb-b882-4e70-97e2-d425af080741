@@ -29,7 +29,7 @@ const UserDetails = (props) => {
           <p>posts</p>
         </div>
         <button data-testid="follow-btn">
-          {props.item.is_following ? "Unfollow" : "follow"}
+          {props.item.is_following ? "Unfollow" : "Follow"}
         </button>
       </div>
     </>
